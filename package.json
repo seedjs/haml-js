@@ -3,5 +3,6 @@
     "description": "Haml ported to server-side Javascript. This is a traditional server-side templating language.",
     "keywords": ["haml", "template", "nodejs"],
     "author": "Tim Caswell",
-    "version": "0.1.2"
+    "version": "0.1.2",
+    "seed-maintainer": "Josh Holt (http://blog.thesempiternalholts.com)"
 }
